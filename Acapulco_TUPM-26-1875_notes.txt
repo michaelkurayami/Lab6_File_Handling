@@ -1,0 +1,5 @@
+Student: Acapulco
+Student ID: TUPM-26-1875
+Seed digit: 5
+ID sum: 29
+Verification value: 237
